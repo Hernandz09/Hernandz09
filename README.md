@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Ubicación-Lima%2C%20Perú-blue" />
-  <a href="https://www.linkedin.com/in/josé-i-hernández-1381122a2/"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hernandz09"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
