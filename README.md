@@ -34,9 +34,9 @@ Desarrollador Full Stack enfocado en construir aplicaciones web con **Python/Dja
 ### 🛠️ Stack técnico
 
 **Lenguajes:** Python, JavaScript, HTML, CSS, SQL
-**Frameworks/Librerías:** Django, Flask, Express (ajustar según lo que realmente uses)
-**Herramientas:** Git, GitHub, [Docker / Postman / lo que corresponda]
-**Bases de datos:** PostgreSQL, SQLite (ajustar)
+**Frameworks/Librerías:** Django, Flask, Express 
+**Herramientas:** Git, GitHub, [Docker / Postman ]
+**Bases de datos:** PostgreSQL, SQLite
 
 ---
 
