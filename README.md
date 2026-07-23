@@ -12,10 +12,10 @@
 
 Desarrollador Full Stack enfocado en construir aplicaciones web con **Python/Django** en el backend y **JavaScript** en el frontend. Me interesa el trabajo con integraciones de terceros (APIs, webhooks) y escribir código mantenible.
 
-- 🔭 Actualmente trabajando en: *[nombre del proyecto activo]*
-- 🌱 Aprendiendo: *[ej. React, Docker, testing con pytest]*
-- 💼 Experiencia con: *[ej. proyectos freelance, automatizaciones con GHL/CRM]*
-- 📫 Contáctame: *[tu correo profesional]*
+- 🔭 Actualmente trabajando en: Proyectos personales
+- 🌱 Aprendiendo: React, Docker, PHP, Python, IA.
+- 💼 Experiencia con: Automatizaciones IA, CRM, ERP.
+- 📫 Contáctame: hernandz.j2004@gmail.com
 
 ---
 
